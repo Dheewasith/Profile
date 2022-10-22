@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@300&display=swap');
+
+body {
+   background-color: aquamarine;
+   font-family: 'K2D', sans-serif;
+}
+
+#a {
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(0, 162, 255);
+}
+
+td{
+    background-color: rgb(0, 255, 255);
+    padding: 20px;
+    border: 0px;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+#onepice{
+    padding: 0px;
+}
